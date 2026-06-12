@@ -29,3 +29,13 @@ Install dependencies:
 
 ```bash
 python3 -m pip install -r requirements.txt
+## Project Screenshots
+
+### ShopEasy Website
+![ShopEasy Website](screenshots/homepage.png)
+
+### Automation Test Report
+![Automation Test Report](screenshots/test-report.png)
+
+### GitHub Repository
+![GitHub Repository](screenshots/github-repo.png)
